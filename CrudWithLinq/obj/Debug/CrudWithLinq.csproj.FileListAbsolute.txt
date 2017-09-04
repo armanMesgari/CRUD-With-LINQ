@@ -1,0 +1,9 @@
+c:\users\aam\documents\visual studio 2015\Projects\CrudWithLinq\CrudWithLinq\bin\Debug\CrudWithLinq.exe
+c:\users\aam\documents\visual studio 2015\Projects\CrudWithLinq\CrudWithLinq\bin\Debug\CrudWithLinq.pdb
+c:\users\aam\documents\visual studio 2015\Projects\CrudWithLinq\CrudWithLinq\obj\Debug\CrudWithLinq.csprojResolveAssemblyReference.cache
+c:\users\aam\documents\visual studio 2015\Projects\CrudWithLinq\CrudWithLinq\obj\Debug\CrudWithLinq.Form1.resources
+c:\users\aam\documents\visual studio 2015\Projects\CrudWithLinq\CrudWithLinq\obj\Debug\CrudWithLinq.Properties.Resources.resources
+c:\users\aam\documents\visual studio 2015\Projects\CrudWithLinq\CrudWithLinq\obj\Debug\CrudWithLinq.csproj.GenerateResource.Cache
+c:\users\aam\documents\visual studio 2015\Projects\CrudWithLinq\CrudWithLinq\obj\Debug\CrudWithLinq.exe
+c:\users\aam\documents\visual studio 2015\Projects\CrudWithLinq\CrudWithLinq\obj\Debug\CrudWithLinq.pdb
+C:\Users\AAM\Documents\Visual Studio 2015\Projects\CrudWithLinq\CrudWithLinq\bin\Debug\CrudWithLinq.exe.config
